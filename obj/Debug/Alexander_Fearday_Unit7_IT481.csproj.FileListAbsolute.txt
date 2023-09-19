@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\Alexander_Fearday_Unit7_IT481\Alexander_Fearday_Unit7_IT481\bin\Debug\Alexander_Fearday_Unit7_IT481.exe.config
+C:\Users\Alex\source\repos\Alexander_Fearday_Unit7_IT481\Alexander_Fearday_Unit7_IT481\bin\Debug\Alexander_Fearday_Unit7_IT481.exe
+C:\Users\Alex\source\repos\Alexander_Fearday_Unit7_IT481\Alexander_Fearday_Unit7_IT481\bin\Debug\Alexander_Fearday_Unit7_IT481.pdb
+C:\Users\Alex\source\repos\Alexander_Fearday_Unit7_IT481\Alexander_Fearday_Unit7_IT481\obj\Debug\Alexander_Fearday_Unit7_IT481.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\Alexander_Fearday_Unit7_IT481\Alexander_Fearday_Unit7_IT481\obj\Debug\Alexander_Fearday_Unit7_IT481.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Alexander_Fearday_Unit7_IT481\Alexander_Fearday_Unit7_IT481\obj\Debug\Alexander_Fearday_Unit7_IT481.exe
+C:\Users\Alex\source\repos\Alexander_Fearday_Unit7_IT481\Alexander_Fearday_Unit7_IT481\obj\Debug\Alexander_Fearday_Unit7_IT481.pdb
